@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\administrador\downloads\leguizamon_2018041708210201\project2\project2\project2\source.cpp(9): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+  Project2.vcxproj -> C:\Users\Administrador\Downloads\leguizamon_2018041708210201\Project2\Project2\Debug\Project2.exe
+  Project2.vcxproj -> C:\Users\Administrador\Downloads\leguizamon_2018041708210201\Project2\Project2\Debug\Project2.pdb (Partial PDB)
